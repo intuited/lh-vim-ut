@@ -2,10 +2,10 @@
   "name" : "UT",
   "version" : "dev",
   "author" : "Luc Hermitte <http://code.google.com/p/lh-vim/wiki/contact>",
-  "maintainer" : "Luc Hermitte <http://code.google.com/p/lh-vim/wiki/contact>",
-  "repository" : {"type": "svn", "url": "http://code.google.com/p/lh-vim/source/browse/#svn/BTW/trunk"},
+  "maintainer" : "Ted Tibbetts <http://github.com/intuited>",
+  "repository" : {"type": "git", "url": "http://github.com/intuited/lh-vim-ut.git"},
   "dependencies" : {
-      "lh-vim-lib" : {"type" : "svn", "url" : "http://code.google.com/p/lh-vim/source/browse/#svn/vim-lib/trunk"}
+      "lh-vim-lib" : {"type" : "git", "url" : "http://github.com/intuited/lh-vim-lib.git"}
   },
   "description" : "Unit Testing Framework for Vim",
   "homepage" : "http://code.google.com/p/lh-vim/wiki/UT"
